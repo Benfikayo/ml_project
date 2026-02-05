@@ -1,1 +1,66 @@
+#Ditribution / packaging
+develop-egg/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheels-metadata/
+share/python-wheels/
+*egg-info/
 
+# SagaMath
+*saga.py
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env/
+.venv/
+env.bak/
+venv.bak/
+
+#Spyder project settings
+.spyderproject
+.pyproject
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoint
+
+# Ditribution / Packaging
+build/
+dist/
+*.egg-info
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files
+*.csv
+*.xlsx
+*.pkl
+# Ojango stuff
+
+
+# Model files
+*.h5
+*.pkl
+*.joblib
